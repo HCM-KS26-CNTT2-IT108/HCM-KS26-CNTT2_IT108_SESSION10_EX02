@@ -8,7 +8,7 @@ Dưới đây là đoạn mã Python mẫu dùng để đọc độ ẩm và đi
 
 
  import time
-def control_pump(humidity):
+ def control_pump(humidity):
     threshold = 60.0
     if humidity < threshold:
         print("Độ ẩm thấp! Đang bật máy bơm tưới nước...")
