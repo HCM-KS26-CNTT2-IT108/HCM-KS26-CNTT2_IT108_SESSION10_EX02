@@ -6,7 +6,7 @@
 ### 1. Mã nguồn điều khiển máy bơm (Python)
 Dưới đây là đoạn mã Python mẫu dùng để đọc độ ẩm và điều khiển máy bơm:
 
-
+```python
  import time
  def control_pump(humidity):
     threshold = 60.0
