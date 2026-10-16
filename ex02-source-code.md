@@ -18,7 +18,7 @@ Dưới đây là đoạn mã Python mẫu dùng để đọc độ ẩm và đi
 if __name__ == "__main__":
     current_humidity = 55.5
     control_pump(current_humidity)  
-
+```
 **3. So sánh Cảm biến Cũ và Mới**
 | Tiêu chí | Cảm biến Cũ (Analog) | Cảm biến Mới (Digital) |
 | :--- | :--- | :--- |
